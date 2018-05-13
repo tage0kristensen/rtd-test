@@ -1,9 +1,3 @@
-.. toctree::
-   :maxdepth: 2
-   usage/installation
-   usage/quickstart    
-
-- A bullet list item
 - Second item
 
   - A sub item
